@@ -1,7 +1,7 @@
 # image-to-ascii
 Simple Image to ASCII Converter using Python
 
-1. Enter file name (e.g. "lion.jpg")
+1. Enter file path (e.g. "lion.jpg")
 2. Confirm image compression: Y or N?
 3. If you will compress the image, enter new image width (px)
 4. Open .txt file for output! :)
